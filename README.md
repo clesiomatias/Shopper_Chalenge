@@ -1,16 +1,16 @@
-# 🚀 **Shopper Challenger**
+---
 
-Bem-vindo ao  **Shopper Challenger** , um projeto de integração entre **Next.js** e  **Node.js** , encapsulados em um ambiente Docker . Este repositório contém o frontend e backend para um sistema web otimizado e pronto para produção.
+## 🚀 **Shopper Challenger**
+
+Bem-vindo ao  **Shopper Challenger** , um projeto desenvolvido com o intuito de demonstrar minha experiência e habilidades em **Next.js** e  **Node.js** , encapsulados em um ambiente Docker. Este repositório contém o **frontend** e **backend** para um sistema web otimizado, pronto para produção.
 
 ## 📋 **Descrição**
 
-O objetivo deste projeto é criar uma aplicação web robusta que exemplifique minhas skils dom as melhores práticas de desenvolvimento com:
+Este projeto foi criado como uma oportunidade para aplicar as melhores práticas de desenvolvimento, ao mesmo tempo que desafia minha capacidade de integrar diferentes tecnologias em um ambiente realista e escalável. O objetivo é apresentar soluções modernas e eficientes para a construção de sistemas web, com foco em:
 
-* **Frontend** : Next.js 15.x com TypeScript, utilizando recursos modernos como renderização híbrida e geração de páginas estáticas.
-* **Backend** : Node.js com TypeScript, garantindo código escalável e tipado.
-* **Containerização** : Docker, para garantir consistência entre os ambientes de desenvolvimento e produção.
-
----
+* **Frontend** : Next.js 15.x com TypeScript, utilizando recursos como renderização híbrida e geração de páginas estáticas para melhorar o desempenho e a experiência do usuário.
+* **Backend** : Node.js com TypeScript, garantindo um código robusto, escalável e bem tipado, pronto para lidar com as demandas de uma aplicação de grande porte.
+* **Containerização** : Docker, para garantir consistência entre os ambientes de desenvolvimento e produção, oferecendo flexibilidade e eficiência na execução do projeto em qualquer infraestrutura.
 
 ## 🛠️ **Tecnologias Utilizadas**
 
