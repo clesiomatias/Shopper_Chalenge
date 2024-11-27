@@ -1,0 +1,8 @@
+Docs/
+.env
+node_modules/
+nom-debug.log*
+.next/
+logs/
+*.log.DS_Store
+Thumbs.db 
